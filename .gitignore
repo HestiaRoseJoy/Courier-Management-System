@@ -1,0 +1,11 @@
+
+# Hide local database credentials
+db.properties
+
+# Ignore compiled Java files
+bin/
+*.class
+
+# Ignore IDE settings
+.idea/
+.vscode/
